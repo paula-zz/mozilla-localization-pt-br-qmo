@@ -100,7 +100,7 @@ and we use them to ensure that all features work properly across a wide range
 of platforms, operating systems, and configurations.
 
 <html:h4>Why should I get involved?</html:h4>
-If you're a fan of Firefox and want to help us make it even better, the 
+If you're a fan of Firefox and want to help us make it even better, the
 easiest way to get involved is to <html:b>help us test</html:b>! The Mozilla QA team and
 community play an important role in making sure millions of people have the
 best Web experience possible... so what are you waiting for? Join the Mozilla
@@ -144,7 +144,7 @@ on Litmus, our test management system.">
 <!ENTITY qa.setup.haveaccount	"Do you already have a Litmus account?">
 <!ENTITY qa.setup.accountno	"I do not have a Litmus account">
 <!ENTITY qa.setup.accountyes	"I already have a Litmus account">
-<!ENTITY qa.setup.accountyes.enterinfo	"Enter your Litmus account information and then press 
+<!ENTITY qa.setup.accountyes.enterinfo	"Enter your Litmus account information and then press
 the 'Continue' button.">
 <!ENTITY qa.setup.accountno.text	"Complete the form below and press the
 <html:b>Create Account</html:b> button to create your new account. Once your
